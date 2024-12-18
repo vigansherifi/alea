@@ -1,0 +1,27 @@
+ul{
+    list-style: none;
+    display: flex;
+    width: 13em;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+#produkt{
+    margin-left: 13px;
+}
+
+#kontakti{
+    margin-left: 13px;
+}
+
+#home{
+    margin-left: 13px;
+}
+
+#main{
+    display: flex;
+    justify-content: center;
+}
