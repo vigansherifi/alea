@@ -1,0 +1,42 @@
+ul {
+  list-style: none;
+  display: flex;
+  width: 13em;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  font-family: sans-serif;
+}
+
+#produkt {
+  margin-left: 13px;
+}
+
+#kontakti {
+  margin-left: 13px;
+}
+
+#home {
+  margin-left: 13px;
+}
+a {
+  color: black;
+  text-decoration: none;
+}  
+
+.heder-paragraf{
+  font-family: sans-serif;
+  font-size: 22px;
+  margin-left: 68px;
+}
+
+h1{
+font-family: sans-serif;
+font-size: 40px;
+}
+
+#titulli{
+  font-size: 70px;
+}
