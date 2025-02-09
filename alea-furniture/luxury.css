@@ -24,30 +24,30 @@ nav {
 a {
   color: black;
   text-decoration: none;
-}  
+}
 
-.heder-paragraf{
+.heder-paragraf {
   font-family: sans-serif;
   font-size: 22px;
   margin-left: 68px;
 }
 
-h1{
-font-family: sans-serif;
-font-size: 40px;
+h1 {
+  font-family: sans-serif;
+  font-size: 40px;
 }
 
-#titulli{
+#titulli {
   font-size: 70px;
 }
 
-#butoni{
+#butoni {
   background-color: black;
   color: white;
   height: 60px;
   width: 140px;
 }
 
-#kolltuku{
+#kolltuku {
   background-color: rgb(183, 183, 241);
 }
